@@ -12,11 +12,14 @@ public class parctice2Test {
 	@Test
 	public void parctice2() {
 		System.out.println("Test2-->class2");
+		System.out.println("Test3-->class3");
 	
 	}
 	@Test
 	public void parctice3() {
 		System.out.println("Test3-->class2");
+		System.out.println("Test4-->class4");
+		System.out.println("Test5-->class5");
 	
 	}
 	

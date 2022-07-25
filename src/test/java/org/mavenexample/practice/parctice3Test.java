@@ -19,6 +19,11 @@ public class parctice3Test {
 		System.out.println("Test3-->class3");
 	
 	}
+	@Test
+	public void parctice4() {
+		System.out.println("Test3-->class3");
+	
+	}
 	
 	
 

@@ -13,7 +13,7 @@ public class parctice1Test {
 		System.out.println("url-->"+URL);
 		System.out.println("username-->"+USERNAME);
 		System.out.println("password-->"+PASSWORD);
-		//hi my name is siva
+		
 	
 	}
 	@Test
@@ -26,6 +26,7 @@ public class parctice1Test {
 	@Test
 	public void parctice3() {
 		System.out.println("Test1-->class1");
+		System.out.println("Test2-->class2");
 		//hi good afternoon
 	
 	}
